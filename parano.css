@@ -11,3 +11,10 @@ This file is hosted on github
 Source : https://github.com/jcnade/css.parano.be
 
 */
+
+
+/* Quand une personne se connect en invisible (body) */
+.invisible {
+  .background = #000000;
+}
+
